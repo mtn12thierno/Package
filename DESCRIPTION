@@ -1,0 +1,13 @@
+Package: apurement
+Title: apurement de base de données
+Version: 0.0.0.9000
+Authors@R: 
+    person("Mame Thierno", "Ndiaye", , "mtnthierno@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: ce package permet d'apurement de votre base de données, il contient une fonction qui permet d'importer votre base de données, 
+            de renommer vos variables, de detecter les valeurs manquantes et de les imputer. le package contient aussi des focntions qui permettent de trouver et de corriger les valeurs aberrantes. 
+            On peut aussi fusionner deux bases de données .
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
